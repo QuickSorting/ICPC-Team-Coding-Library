@@ -90,6 +90,6 @@ Draft:
 
 * _Gaussian Elimination friendly to precision_
 
-* _Minimum Arborescence*
+* _Minimum Arborescence_
 
 * Planar graph related algos 
