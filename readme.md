@@ -44,6 +44,8 @@ Draft:
 
 * **Miller rabin prime checker**
 
+* _Tonelli Shanks_
+
 * Discrete log with BSGS (_or faster_)
 
 * ~~Prime counting function in O(n^(2/3)/log^2n)~~
