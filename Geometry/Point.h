@@ -3,6 +3,11 @@
 using namespace std;
 
 template<class T>
+int sign(T x){
+    return !x ? 0 : ((x > 0) ? 1 : -1);
+}
+
+template<class T>
 struct Point{
     typedef Point pt;
     T x, y;
